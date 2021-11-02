@@ -1,29 +1,8 @@
 # vue-cli-template
+vue cli3 项目模板
 
-## Project setup
-```
-npm install
-```
+vue-cli 版本 3.4.1
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
+本项目为测试项目，把vue-cli内置的webpack配置拿出来进行对比
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
